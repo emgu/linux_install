@@ -1,7 +1,12 @@
+# sudo apt-get install git
+# chmod +x install.sh
 
 # upgrade
 sudo apt-get update
 sudo apt-get upgrade
+
+#gedit install
+sudo apt-get install gedit
 
 # Java8 install
 sudo add-apt-repository ppa:webupd8team/java
